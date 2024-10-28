@@ -84,7 +84,7 @@ Formación en Ingeniería en Sistemas Computacionales, con un enfoque en el desa
 
 # 💼 Experiencia
 
-## GASPRE - Sistema de Inteligencia en Precios para Estaciones de Servicio (Gasolineras ⛽)
+## GASPRE - Sistema de Inteligencia en Precios para Estaciones de Servicio
 
 **Co-Fundador & Senior Front-End Developer**  
 *Septiembre 2019 - Actualidad*  
@@ -108,7 +108,7 @@ GASPRE es el único sistema en México, España y LATAM que ofrece información 
 
 ## Pyramidev - Desarrollo Web y Soluciones Digitales
 
-**Co-Fundador**  
+**Co-Fundador & Full Stack Developer**  
 *Enero 2016 - Diciembre 2022*  
 *Ciudad de México, México*
 
@@ -127,7 +127,7 @@ Durante 7 años en **Pyramidev**, desarrollé proyectos de software enfocados en
 
 ## Grupo Koomkin - Marketing Digital
 
-**Desarrollador Front-End**  
+**Front-End Developer**  
 *Julio 2017 - Diciembre 2019*  
 *Avenida Horacio 1844, Polanco, Ciudad de México*
 
