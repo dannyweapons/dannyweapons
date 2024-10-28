@@ -1,10 +1,19 @@
-<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+👨‍💻 Daniel Armas (SSR Front End Developer)
+======================================================================================================================================================
 
 # 🚀 Sobre mí
 
 Apasionado por crear experiencias de usuario excepcionales e innovadoras soluciones tecnológicas. Co-fundador de GASPRE, empresa de inteligencia de precios para estaciones de servicio. Experto en desarrollo de interfaces UX/UI, integración de API REST y aplicaciones móviles híbridas, con enfoque en proyectos eficientes y de alta calidad que promueven el crecimiento sostenible.
 
-## 🎓 Educación
+# 💻 Tecnologías
+
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+                    </p>
+                    
+
+# 🎓 Educación
 
 **Instituto Politécnico Nacional**  
 Licenciatura en Ingeniería en Sistemas Computacionales  
@@ -12,7 +21,9 @@ Licenciatura en Ingeniería en Sistemas Computacionales
 
 Formación en Ingeniería en Sistemas Computacionales, con un enfoque en el desarrollo de software y sistemas, adquirida en el **Instituto Politécnico Nacional**.
 
-## GASPRE - Sistema de Inteligencia en Precios para Estaciones de Servicio ⛽
+# 💼 Experiencia
+
+## GASPRE - Sistema de Inteligencia en Precios para Estaciones de Servicio (Gasolineras ⛽)
 
 **Co-Fundador & Senior Front-End Developer**  
 *Septiembre 2019 - Actualidad*  
@@ -23,9 +34,10 @@ GASPRE es el único sistema en México, España y LATAM que ofrece información 
 ---
 
 ### 👨‍💻 Experiencia y Habilidades
-- **Desarrollo de Interfaces UX/UI:** Creación de interfaces centradas en el usuario utilizando **Angular 15, IONIC y React**.
-- **Integración de API REST:** Conexión de APIs en **Node.js** para una integración fluida de datos y funcionalidades backend.
-- **Aplicación Móvil Híbrida:** Desarrollo de una app para leer precios de tótems en estaciones, mejorando la accesibilidad y experiencia del usuario.
+
+- **Desarrollo de Interfaces UX/UI:** Creación de interfaces centradas en el usuario utilizando **Angular 15 y React**.
+- **Integración de API REST:** Conexión de APIs en **Node.js** con **Express** para una integración fluida de datos y funcionalidades backend.
+- **Aplicación Móvil Híbrida:** Desarrollo de una app con **IONIC** para leer precios de tótems en estaciones, mejorando la accesibilidad y experiencia del usuario.
 - **Implementación de Servicios en Windows y Linux:** Obtención de datos de bases de datos **SQL, MSSQL, Firebird y Visual FoxPro**.
 - **Evaluación y Planificación de Proyectos:** Estimación de tiempos de desarrollo e implementación, asegurando la alineación con los objetivos de negocio y los plazos.
 - **Soporte y Atención al Cliente:** Atención excepcional al cliente para garantizar la satisfacción y lealtad.
@@ -35,7 +47,7 @@ GASPRE es el único sistema en México, España y LATAM que ofrece información 
 
 ## Pyramidev - Desarrollo Web y Soluciones Digitales
 
-**Socio Fundador**  
+**Co-Fundador**  
 *Enero 2016 - Diciembre 2022*  
 *Ciudad de México, México*
 
@@ -43,7 +55,7 @@ Durante 7 años en **Pyramidev**, desarrollé proyectos de software enfocados en
 
 ---
 
-### 💼 Experiencia en Pyramidev
+### 👨‍💻 Experiencia y Habilidades
 
 - **Desarrollo Web Back-End y Front-End**: Creación de sitios web funcionales y visualmente atractivos.
 - **Implementación de CMS Personalizados**: Desarrollo de sistemas de gestión de contenido adaptados a las necesidades del cliente.
@@ -52,7 +64,7 @@ Durante 7 años en **Pyramidev**, desarrollé proyectos de software enfocados en
 
 ---
 
-# Grupo Koomkin - Plataforma de Prospección de Clientes
+## Grupo Koomkin - Marketing Digital
 
 **Desarrollador Front-End**  
 *Julio 2017 - Diciembre 2019*  
@@ -62,7 +74,7 @@ En **Grupo Koomkin**, participé en la modernización de su plataforma de prospe
 
 ---
 
-## 📌 Experiencia en Koomkin
+### 👨‍💻 Experiencia y Habilidades
 
 - **Migración a PWA**: Desarrollo de la plataforma en formato PWA utilizando **Polymer**, junto con **NodeJS** y **Express**, enfocándome en mejorar la interacción y experiencia del usuario.
 - **Mantenimiento de la PWA**: Soporte y optimización continua para asegurar la alta calidad del servicio que Koomkin proporciona a sus clientes.
